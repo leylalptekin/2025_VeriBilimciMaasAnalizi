@@ -1,7 +1,7 @@
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c6fcb862-1a1f-4ae6-897a-95ada5654c1a" />
 # 📊 EDA on Data Science Salaries
 
-Bu proje, veri bilimi alanında çalışan profesyonellerin maaş verileri üzerinde Keşifsel Veri Analizi (EDA) uygulayarak içgörü elde etmeyi amaçlamaktadır. Kaggle üzerinde yayınlanan **"EDA on Data Science Salaries"** adlı çalışmadan ilham alınmıştır.
+Bu proje, veri bilimi alanında çalışan profesyonellerin maaş verileri üzerinde Keşifsel Veri Analizi (EDA) uygulayarak içgörü elde etmeyi amaçlamaktadır.
 
 ## 🔍 Proje Hakkında
 
